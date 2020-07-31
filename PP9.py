@@ -26,6 +26,7 @@ while True:
         print('You entered low number')
     elif b == a:
         print('Entered number matches')
+        break
     else:
         print('You entered high number')
 # feedbacks
